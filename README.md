@@ -1,0 +1,2 @@
+# sentiment-analyzer-YELP
+Built a Naive Bayes Sentiment Analyzer by not only extracting over 5000 Toronto based restaurant's ratings and review via Yelp API but also by using the JSON file format to read and clean the data. The analyzer accurately classifies the customer sentiments based on their reviews (using Natural Language Tool Kit (NLTK) package) thereby helping respective hotels to either offer new or improve existing services.
